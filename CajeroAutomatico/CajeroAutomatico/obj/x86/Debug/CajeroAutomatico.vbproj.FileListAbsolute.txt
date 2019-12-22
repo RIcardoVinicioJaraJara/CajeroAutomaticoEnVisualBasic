@@ -1,0 +1,24 @@
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista2.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.xml
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\CajeroAutomatico.exe
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\CajeroAutomatico.xml
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\CajeroAutomatico.pdb
+C:\Users\rici\Documents\Visual Studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista3.resources
+C:\Users\rici\Documents\Visual Studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista4.resources
+C:\Users\rici\Documents\Visual Studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista5.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista6.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista7.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista8.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista9.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista11.resources
+C:\Users\rici\documents\visual studio 2010\Projects\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\WindowsApplication1.Vista12.resources
+Z:\Final\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\CajeroAutomatico.exe
+Z:\Final\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\CajeroAutomatico.xml
+Z:\Final\CajeroAutomatico\CajeroAutomatico\obj\x86\Debug\CajeroAutomatico.pdb
